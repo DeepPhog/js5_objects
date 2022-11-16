@@ -1,0 +1,21 @@
+.car {
+  border-bottom: 5px solid black;
+  margin-top: 20px;
+}
+.sub {
+  margin: 100px;
+  width: 100px;
+  height: 40px;
+}
+.sub2 {
+  width: 100px;
+  height: 40px;
+}
+input {
+  height: 20px;
+  width: 200px;
+  margin: 30px;
+}
+.red {
+  color: red;
+}
